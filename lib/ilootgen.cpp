@@ -1,0 +1,2 @@
+#include "ilootgen.h"
+

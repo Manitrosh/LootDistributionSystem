@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/show.svg</file>
+        <file>icons/hide.svg</file>
+        <file>icons/remove.svg</file>
+        <file>icons/add.svg</file>
+        <file>icons/refreshing.svg</file>
+        <file>icons/filter_show.svg</file>
+        <file>icons/filter_hide.svg</file>
+    </qresource>
+</RCC>

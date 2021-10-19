@@ -1,0 +1,58 @@
+{
+  "groups": [
+    {
+      "items": [
+        {
+          "id": 1,
+          "count": 2,
+          "weight": 100
+        },
+        {
+          "id": 1,
+          "count": 1,
+          "weight": 900
+        }
+      ],
+      "count": 1,
+      "repetition": false,
+      "key": 0,
+      "sumWeight": 1000
+    },
+    {
+      "sumWeight": 1000,
+      "items": [
+        {
+          "weight": 100,
+          "id": 2,
+          "count": 2
+        },
+        {
+          "weight": 900,
+          "id": 2,
+          "count": 1
+        }
+      ],
+      "count": 1,
+      "repetition": false,
+      "key": 0
+    },
+    {
+      "sumWeight": 1000,
+      "items": [
+        {
+          "weight": 100,
+          "id": 3,
+          "count": 2
+        },
+        {
+          "weight": 900,
+          "id": 3,
+          "count": 1
+        }
+      ],
+      "count": 1,
+      "repetition": false,
+      "key": 0
+    }
+  ]
+}
